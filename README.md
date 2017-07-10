@@ -1,9 +1,9 @@
 # Spielersoftware reveal.js theme
 
-Dieses Repository dient der Verwaltung unseres CSS-Themes f�r reveal.js.
+Dieses Repository dient der Verwaltung unseres CSS-Themes für reveal.js.
 
 Das Theme basiert auf dem original-Theme 'Black' mit angepasster Hintergrundfarbe,
-sowie Möglichkeiten der Farben unseres Logos in Form von CSS-Klassen:
+sowie MÃ¶glichkeiten der Farben unseres Logos in Form von CSS-Klassen:
 
 * .yellow
 * .yellow-background
