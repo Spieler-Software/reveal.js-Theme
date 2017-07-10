@@ -11,3 +11,9 @@ sowie MÃ¶glichkeiten der Farben unseres Logos in Form von CSS-Klassen:
 * .blue-background
 
 Sowie unser Logo in der oberen rechten Ecke.
+
+## Verwendung
+
+* Platzierung der .css-Datei im Ordner ./css/themes
+* Verlinkung in index.html
+* images-Ordner im Hauptverzeichnis mit logo.png
